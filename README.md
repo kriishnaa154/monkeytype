@@ -1,3 +1,3 @@
 <a href="https://monkeytype.com/profile/Krishna_19">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmonkeytypegame%2Fmonkeytype&psig=AOvVaw1HekfqZz3QGPT7_tl0dOVp&ust=1752646138937000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJj02ZOavo4DFQAAAAAdAAAAABAE" alt="My Monkeytype profile" />
+        <img src="[![Monkeytype WPM](https://monkeytype-badge-vhd5lan7mmhz.runkit.sh?message=60%20WPM&label=WPM)](https://monkeytype.com/)" alt="My Monkeytype profile" />
     </a>
